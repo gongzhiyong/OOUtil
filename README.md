@@ -1,0 +1,4 @@
+OOUtil
+======
+
+Javascript OO utility
